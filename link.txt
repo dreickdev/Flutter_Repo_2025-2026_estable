@@ -1,0 +1,16 @@
+https://developer.android.com/studio?hl=es-419
+
+version.
+(64 bits)	android-studio-2025.2.1.8-windows.exe 
+
+
+https://flutter.dev/
+
+https://docs.flutter.dev/get-started
+
+web. 
+ https://www.google.com/intl/es_us/chrome/
+ code 
+ https://code.visualstudio.com/
+ 
+ para descargar los link 
